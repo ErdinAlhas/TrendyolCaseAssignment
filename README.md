@@ -1,2 +1,3 @@
 # TrendyolCaseAssignment
-Kodluyoruz Trendyol Development in Test Bootcamp
+Kodluyoruz Trendyol Development in Test Bootcamp 
+Selenium Case
